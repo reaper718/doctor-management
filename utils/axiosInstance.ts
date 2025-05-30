@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "https://doctor-management-backend.vercel.app/api/v1";
+const BASE_URL = "https://doctor-management-backend-five.vercel.app//api/v1";
 // const BASE_URL = "http://localhost:5003/api/v1";
 
 const api = axios.create({
